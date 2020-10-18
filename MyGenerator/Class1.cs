@@ -3,6 +3,8 @@ using System.Text;
 using Microsoft.CodeAnalysis;
 using Microsoft.CodeAnalysis.Text;
 
+// Bits of code originally from http://dontcodetired.com/blog/post/C-Source-Generators-Less-Boilerplate-Code-More-Productivity
+
 namespace MyGenerator
 {
     [Generator]
